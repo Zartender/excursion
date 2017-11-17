@@ -1,0 +1,20 @@
+
+body {
+      background-color: Black;
+      text-align: center;
+      font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: White;
+    text-align: centered;
+
+}
+
+.decs {
+            font-family: Verdana;
+            color: Aquamarine;
+            font-size: 16px;
+}
