@@ -1,38 +1,39 @@
 
 body {
       font-family: Verdana;
-      background-color: Black;
+      color: white;
+      background-color: black;
       text-align: center;
+
 
 }
 
 h1 {
     font-weight: bold;
     font-size: 50px;
-    color: White;
+    color: white;
     text-align: centered;
     font-family: Verdana;
 
 }
-
-a .decs {
+.decs {
             font-family: Verdana;
-            color: Aquamarine;
+            color: AquaMarine;
             font-size: 16px;
 }
-a {
-  color: Aquamarine;
+
 
 }
-h2, #yptg {
+h2 {
         font-family: Verdana;
-        font-weight: 300;
+        font-weight: bold;
         font-size: 42px;
+
 }
-    #interest {
-      font-family: Verdana;
-      font-size: 21px
-      color: Gray;
+.interests {
+
+      font-size: 21px;
+      color: gray;
 }
 
  #foot {
