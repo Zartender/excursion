@@ -1,15 +1,17 @@
 
 body {
+      font-family: Verdana;
       background-color: Black;
       text-align: center;
-      font-family: Verdana, sans-serif;
+
 }
 
 h1 {
-    font-weight: normal;
+    font-weight: bold;
     font-size: 50px;
     color: White;
     text-align: centered;
+    font-family: Verdana;
 
 }
 
@@ -20,5 +22,21 @@ a .decs {
 }
 a {
   color: Aquamarine;
+
+}
+h2, #yptg {
+        font-family: Verdana;
+        font-weight: 300;
+        font-size: 42px;
+}
+    #interest {
+      font-family: Verdana;
+      font-size: 21px
+      color: Gray;
+}
+
+ #foot {
+      text-align: right;
+      color: gray;
 
 }
